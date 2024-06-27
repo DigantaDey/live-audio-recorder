@@ -10,6 +10,9 @@ A simple audio recorder with real-time monitoring using HTML, Tailwind CSS, and 
 - Save recorded audio as a WAV file.
 - Display recording duration.
 
+## Future Updates
+- Record audio file in MP3 instead of WAV for better compatibility
+
 ## Demo
 
 Check out the live demo [here](https://digantadey.github.io/live-audio-recorder/).
