@@ -86,9 +86,9 @@
                 audio: {
                     sampleRate: 44100,
                     channelCount: 2,
-                    echoCancellation: true,
-                    noiseSuppression: true,
-                    autoGainControl: true
+                    echoCancellation: false,
+                    noiseSuppression: false,
+                    autoGainControl: false
                 }
             });
 
